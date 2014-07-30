@@ -38,6 +38,7 @@ commands_to_run=(
   install_rebar
 
   restore_backups_if_needed
+  export_env_dir
   app_dependencies
   copy_hex
   compile_app
